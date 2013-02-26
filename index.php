@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+       echo"Gateway to the perv world";
         ?>
     </body>
 </html>
