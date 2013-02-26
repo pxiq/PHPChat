@@ -6,7 +6,9 @@
     </head>
     <body>
         <?php
-       echo"Gateway to the perv world";
+       while(true){
+           echo"Gateway to the perv world";
+       }
         ?>
     </body>
 </html>
